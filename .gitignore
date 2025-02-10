@@ -1,0 +1,12 @@
+# Environnements virtuels
+venv/
+__pycache__/
+*.pyc
+
+# Fichiers de logs
+logs/
+*.log
+
+# Data
+data/
+

@@ -47,7 +47,7 @@ python script.py
 
 ```
 📂 Projet_Analyse_Revenus
-│── 📄 new.ipynb             # Script principal. A exécuté dans l'ordre
+│── 📄 new.ipynb             # Script principal. A exécuter dans l'ordre
 │── 📄 requirements.txt      # Liste des dépendances nécessaires
 │── 📄 README.md             # Documentation du projet
 │── 📂 data                  # Contient le fichier de données (Data donné dans le cadre du cours)

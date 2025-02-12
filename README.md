@@ -36,10 +36,7 @@ pip install -r requirements.txt
 ## 📝 Utilisation
 
 Après avoir installé les dépendances, vous pouvez exécuter les scripts Python pour analyser le dataset. Assurez-vous que l'environnement virtuel est bien activé avant d'exécuter le projet.
-
-```bash
-python script.py
-```
+Il faut exécuter les cellules dans l'ordre.
 
 ---
 
